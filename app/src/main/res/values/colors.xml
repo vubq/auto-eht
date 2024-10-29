@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="green_primary">#4CAF50</color>
+    <color name="green_variant">#388E3C</color>
+    <color name="green_secondary">#81C784</color>
+    <color name="green_button">#4CAF50</color>
+    <color name="green_border">#4CAF50</color>
+</resources>

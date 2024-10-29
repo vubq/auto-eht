@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Auto-EHT</string>
+
+    <string-array name="auto_type">
+        <item>Auto trang bị</item>
+        <item>Auto cường hoá</item>
+        <item>Auto tẩy thuộc tính</item>
+        <item>Auto thú cưỡi</item>
+    </string-array>
+
+    <string-array name="equip">
+        <item>Giáp</item> <!-- 0 -->
+        <item>Găng</item> <!-- 1 -->
+        <item>Giày</item> <!-- 2 -->
+        <item>Dây chuyền</item> <!-- 3 -->
+        <item>Nhẫn</item> <!-- 4 -->
+        <item>Vũ khí</item> <!-- 5 -->
+    </string-array>
+
+    <string-array name="strengthen">
+        <item>Ô 1</item>
+        <item>Ô 2</item>
+        <item>Ô 3</item>
+        <item>Ô 4</item>
+        <item>Ô 5</item>
+        <item>Ô 6</item>
+        <item>Ô 7</item>
+        <item>Ô 8</item>
+    </string-array>
+
+    <string-array name="erase_attribute">
+        <item>Ô 1</item>
+        <item>Ô 2</item>
+        <item>Ô 3</item>
+        <item>Ô 4</item>
+        <item>Ô 5</item>
+        <item>Ô 6</item>
+        <item>Ô 7</item>
+        <item>Ô 8</item>
+    </string-array>
+</resources>
